@@ -1,4 +1,4 @@
-## cupuuuuuuuu gueeee kodookkkkk
+## Hello I'm Yosua Hares. I’m open to collaboration and opportunities.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yosuahres)](https://github.com/anuraghazra/github-readme-stats)
 
