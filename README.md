@@ -4,6 +4,6 @@ I'm Yosua Hares, currently passionate in Deep Learning AI, and Robotics.
 ## Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tapeds&show_icons=true&theme=tokyonight" height="200" style="display: inline-block; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tapeds&layout=compact&theme=tokyonight" height="200" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yosuahres&show_icons=true&theme=tokyonight" height="200" style="display: inline-block; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosuahres&layout=compact&theme=tokyonight" height="200" style="display: inline-block;" />
 </p>
