@@ -1,8 +1,11 @@
 ## Hello
 Passionate in Deep Learning AI, and Robotics.
 
-![Yosua Hares's Github Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+## Statistics
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yosuahres&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosuahres&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 
