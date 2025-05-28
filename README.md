@@ -1,7 +1,6 @@
-## Hello
-I'm Yosua Hares, currently passionate in Deep Learning AI, and Robotics.
+# Hi, I'm Yosua Hares 👋
 
-## Statistics
+I'm a Computer Science student passionate about **Deep Learning**, **AI**, and **Robotics**. 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yosuahres&show_icons=true&theme=tokyonight" height="170"> 
