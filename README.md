@@ -12,7 +12,3 @@ I'm a Computer Science student passionate about **Deep Learning**, **AI**, and *
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=yosuahres&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
 </p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/7aa2f7/yosuahres" alt="contribution chart" width="90%" />
-</p>
